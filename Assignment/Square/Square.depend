@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638262708 source:f:\assignment\square\main.c
+	<stdio.h>
+	<math.h>
+

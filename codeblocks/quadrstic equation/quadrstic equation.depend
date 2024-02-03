@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638219503 source:f:\codeblocks\quadrstic equation\main.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638208994 source:f:\codeblocks\3d distance.c
+	<stdio.h>
+	<math.h>
+
+1638208761 source:f:\codeblocks\assignment1\main.c
+	<stdio.h>
+	<math.h>
+
